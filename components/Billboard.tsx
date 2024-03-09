@@ -52,7 +52,7 @@ const Billboard: React.FC = () => {
             "
           >
             <AiOutlineInfoCircle className="w-4 md:w-7 mr-1" />
-            More Info
+            More Infortn
           </button>
         </div>
       </div>
